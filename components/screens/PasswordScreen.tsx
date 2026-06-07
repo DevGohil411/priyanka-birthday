@@ -262,7 +262,7 @@ export default function PasswordScreen() {
           Not every gift comes in a box 🎁
         </h1>
         <p className="text-center text-gray-500 text-xs mb-5 font-lato">
-          Hint: It's your day 🌸
+          Hint: It&apos;s your day 🌸
         </p>
 
         {/* PIN dots display */}
