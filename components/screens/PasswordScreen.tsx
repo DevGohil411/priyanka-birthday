@@ -259,10 +259,10 @@ export default function PasswordScreen() {
 
         {/* Title */}
         <h1 className="font-playfair text-xl text-gray-800 text-center mb-1 leading-snug">
-          Guess the Passcode 🌸
+          Not every gift comes in a box 🎁
         </h1>
         <p className="text-center text-gray-500 text-xs mb-5 font-lato">
-          Someone special has a surprise for you, Priyanka ✨
+          Hint: It's your day 🌸
         </p>
 
         {/* PIN dots display */}
